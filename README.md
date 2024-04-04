@@ -1,20 +1,20 @@
-EpidermaQuant Manual
+# EpidermaQuant
 
-Software version: 
+### Software version: 
 MATLAB® R2021b – academic use
 
-Description:
+### Description:
 EpidermaQuant – a new approach for automated detection, segmentation and analysis of in vitro reconstructed human epidermis immunohistochemically stained with hematoxylin and DAB. The bioinformatics tool enabled quantitative analysis of marker proteins and may be useful for a better description of structural changes in the reconstructed human epidermis. The main core of the IHC image analysis process is appropriate pre-processing methods (image normalization, color deconvolution, morphological operations, image rotation) and k-means clustering. The result is the percentage of DAB-stained tissue, along with the outlines of the DAB areas on the original image.
 
-How to use it?
+### How to use it?
 Run the app. Then, select an appropriate marker for analysis and press START ANALYSIS:
-![image](https://github.com/DawZam/EpidermaQuant/assets/148239676/65724500-c670-4920-8c60-12de39a6ae34)
+![Zrzut ekranu 2023-12-20 144740](https://github.com/DawZam/EpidermaQuant/assets/148239676/1eae84bd-d8c7-4318-9e4a-a4590ab1dc18)
 
 Choose an appropriate image:
-![image](https://github.com/DawZam/EpidermaQuant/assets/148239676/306f2cbb-066c-4a54-b3db-f754df1a90be)
+![Zrzut ekranu 2023-12-20 144848](https://github.com/DawZam/EpidermaQuant/assets/148239676/3e957762-207f-40cf-9a60-09d94a54f437)
 
 Get the result:
-![image](https://github.com/DawZam/EpidermaQuant/assets/148239676/7fa7cbe7-496b-4952-bd2d-b932e9f109ce)
+![Zrzut ekranu 2023-12-20 145107](https://github.com/DawZam/EpidermaQuant/assets/148239676/c00da849-8892-4925-9128-a63e153521c9)
 
 It is possible to save the image result – click save as (toolbox in the upper right corner of the image result):
-![image](https://github.com/DawZam/EpidermaQuant/assets/148239676/563c5a37-13ce-4687-b9b0-bc0b578f3946)
+![Zrzut ekranu 2023-12-20 145154](https://github.com/DawZam/EpidermaQuant/assets/148239676/d0e712e1-93ad-47c2-ba5e-0e959d362f1a)
